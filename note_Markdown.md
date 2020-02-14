@@ -1,7 +1,7 @@
 # Markdown
 
 ## 測試
-* [Markdown Live Preview]
+- [Markdown Live Preview]
 (https://markdownlivepreview.com/)
 
 ## 資源
