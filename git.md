@@ -2,5 +2,4 @@
 
 ## 資源
 
-* [為你自己學 Git]
-(https://gitbook.tw/)
+* [為你自己學 Git](https://gitbook.tw/)
